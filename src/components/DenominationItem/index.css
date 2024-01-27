@@ -1,0 +1,66 @@
+.Denomination-item-container {
+  width: 55%;
+  height: 60vh;
+  background-color: #150b3e;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.heading {
+  font-size: 23px;
+  font-family: 'Roboto';
+  color: #d4d2db;
+  margin-top: 60px;
+  margin-left: 50px;
+}
+.balance-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+.paragraph {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #585076;
+  font-weight: 800;
+}
+
+.paragraph2 {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #d4d2db;
+  font-weight: 800;
+}
+
+.withdrawal-container {
+  margin-left: 60px;
+}
+
+.paragraph3 {
+  text-align: right;
+  font-size: 12px;
+  font-family: 'Roboto';
+  color: #585076;
+  margin-right: 60px;
+}
+.button-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.button {
+  width: 180px;
+  background-color: #c4c4c4;
+  border: solid 1px;
+  padding: 10px;
+  border-radius: 7px;
+  color: #585076;
+  font-family: 'Roboto';
+  font-size: 16px;
+  border-color: #d4d2db;
+  font-weight: 800;
+  margin: 20px;
+}
